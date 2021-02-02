@@ -35,3 +35,9 @@ So far the build is great, cold boot time to Mac in 24 seconds!
 * Apple TV DRM
 * SD reader
 * Touchscreen
+
+### Credits to
+
+* Rehabman's dedication to HP Envy and other laptops
+* https://www.tonymacx86.com/threads/guide-hp-envy-haswell-series-j-k-q-n-using-clover-uefi.261724/
+* https://www.insanelymac.com/forum/topic/290687-hp-envy-17t-j000-quad-haswell-108510951010x1011x1012x1013x1014x/
