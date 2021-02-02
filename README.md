@@ -15,6 +15,8 @@ So far the build is great, cold boot time to Mac in 24 seconds!
 * Hard Disk: 1000GB SSD
 * Wifi & Bluetooth: 
 
+![Geekbench](https://github.com/burrows1980/HP-Envy-15/blob/main/Screenshot/geek.png)
+
 ### What's 100% completed
 
 * Sleep
@@ -25,6 +27,8 @@ So far the build is great, cold boot time to Mac in 24 seconds!
 * Webcam
 * Batt. indicator
 * Proper CPU PM (Balanced)
+
+![Bluetooth](https://github.com/burrows1980/HP-Envy-15/blob/main/Screenshot/blue.png)
 
 ### What doesn't work
 
