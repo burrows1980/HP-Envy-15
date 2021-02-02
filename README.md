@@ -5,15 +5,15 @@ Overall
 
 So far the build is great, cold boot time to Mac in 24 seconds!
 
-###Specifications
+### Specifications
 
-*Processor: Core i7-8250U 2.4GHz (Turbo Boost up to 3.4GHz)
-*Graphics: Intel Graphics 4600 2048mb
-*RAM: 12GB DDR3 1600MHz
-*Hard Disk: 1000GB SSD
-*Wifi & Bluetooth: 
+* Processor: Core i7-8250U 2.4GHz (Turbo Boost up to 3.4GHz)
+* Graphics: Intel Graphics 4600 2048mb
+* RAM: 12GB DDR3 1600MHz
+* Hard Disk: 1000GB SSD
+* Wifi & Bluetooth: 
 
-###What's 100% completed
+### What's 100% completed
 
 Sleep
 IDT Speaker (4 speakers) / Mic / Headphones
