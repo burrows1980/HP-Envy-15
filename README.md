@@ -1,5 +1,5 @@
 # HP Envy 15
-Attempt to Hackintosh a 15" HP Envy Notebook with OpenCore and BigSur
+Attempt to Hackintosh a 15" HP Envy Notebook with OpenCore 0.6.5 and BigSur 11.1
 
 ### Overall
 
