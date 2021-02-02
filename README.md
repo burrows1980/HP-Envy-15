@@ -22,7 +22,7 @@ So far the build is great, cold boot time to Mac in 24 seconds!
 * Sleep
 * IDT Speaker (4 speakers) / Mic / Headphones
 * Brightness, KB Backlit, Volume shortcuts
-* Trackpad Gestures / Doesn't stall after KB press
+* Trackpad Gestures
 * USB Ports USB2/3/C
 * Webcam
 * Batt. indicator
