@@ -26,7 +26,6 @@ So far the build is great, cold boot time to Mac in 24 seconds!
 * USB Ports USB2/3/C
 * Webcam
 * Batt. indicator
-* Proper CPU PM (Balanced)
 
 ![Bluetooth](https://github.com/burrows1980/HP-Envy-15/blob/main/Screenshot/blue.png)
 
