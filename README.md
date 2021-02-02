@@ -27,7 +27,7 @@ So far the build is great, cold boot time to Mac in 24 seconds!
 * Webcam
 * Batt. indicator
 
-![Bluetooth](https://github.com/burrows1980/HP-Envy-15/blob/main/Screenshot/blue.png)
+![Bluetooth](https://github.com/burrows1980/HP-Envy-15/blob/main/Screenshot/blue1.png)
 
 ### What doesn't work
 
