@@ -12,7 +12,7 @@ So far the build is great, cold boot time to Mac in 24 seconds!
 * Processor: Core i7-8250U 2.4GHz (Turbo Boost up to 3.4GHz)
 * Graphics: Intel Graphics 4600 2048mb
 * RAM: 12GB DDR3 1600MHz
-* Hard Disk: 1000GB SSD
+* Hard Disk: Crucial MX500 1000GB SSD
 * Wifi & Bluetooth: 
 
 ![Geekbench](https://github.com/burrows1980/HP-Envy-15/blob/main/Screenshot/geek.png)
