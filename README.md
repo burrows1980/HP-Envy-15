@@ -9,7 +9,7 @@ So far the build is great, cold boot time to Mac in 24 seconds!
 
 ### Specifications
 
-* Processor: Core i7-8250U 2.4GHz (Turbo Boost up to 3.4GHz)
+* Processor: Core i7-4700MQ (Haswell) 2.4GHz (Turbo Boost up to 3.4GHz)
 * Graphics: Intel Graphics 4600 2048mb
 * RAM: 12GB DDR3 1600MHz
 * Hard Disk: Crucial MX500 1000GB SSD
