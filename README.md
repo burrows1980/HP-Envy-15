@@ -5,7 +5,7 @@ Attempt to Hackintosh a 15" HP Envy Notebook with OpenCore 0.6.5 and BigSur 11.2
 
 So far the build is great, cold boot time to Mac in 24 seconds!
 
-![Info](https://github.com/burrows1980/HP-Envy-15/blob/main/Screenshot/about.png)
+![Info](https://github.com/burrows1980/HP-Envy-15/blob/main/Screenshot/info.png)
 
 ### Specifications
 
