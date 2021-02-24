@@ -958,7 +958,7 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>MLB</key>
-			<string>C02328902J9FH31AD</string>
+			<string>11111111111</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -968,9 +968,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro11,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02L2FY8FH00</string>
+			<string>111111111</string>
 			<key>SystemUUID</key>
-			<string>4E128575-1532-4012-B094-96578A5163EC</string>
+			<string>11111111</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
